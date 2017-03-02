@@ -1,0 +1,30 @@
+.navbar-default {
+  background: #00afef;
+}
+
+.front {
+  height: 500px;
+	width: auto;
+	background-color: #f3f3f3;
+}
+.one {
+  background: url('/storage/img/untitled-22.jpg') center no-repeat;
+  background-size: cover;
+}
+.two {
+  background: url('/storage/img/untitled-23p.jpg') center no-repeat;
+  background-size: cover;
+}
+.three {
+  background: url('/storage/img/untitled-24s.jpg') center no-repeat;
+  background-size: cover;
+}
+
+.long {
+  min-width: 800px;
+  height: auto;
+}
+
+li {
+  list-style: none;
+}
